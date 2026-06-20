@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu mirada me quema, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu mirada me quema, Vol. 2** (tu-mirada-me-quema-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T00:53:31.433620 | `v1` | `8334a7a685cf025ba82c35f5ef1a71804f9c6ef4a89c7cc51ea6976180bdccbf` | `586f990e26d9fd6af266ec8169c9be89005872b319e0e805b446dc2d7c053d97` | `2026-06-21_tu-mirada-me-quema-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

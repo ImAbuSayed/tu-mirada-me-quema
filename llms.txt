@@ -1,4 +1,4 @@
-# Tu mirada me quema
+# Tu mirada me quema, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu mirada me quema |
+| **Title** | Tu mirada me quema, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-mirada-me-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu mirada me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-mirada-me-quema/) |
+| **Get License** | [Music Rights & Licensing for Tu mirada me quema, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-mirada-me-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me quema, baby, fire in the dark
+> Caminando por Madrid, you're stealing my heart
+> Tus labios de veneno, un juego prohibido
+> Esta noche tú y yo, perdemos el sentido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `8334a7a685cf025ba82c35f5ef1a71804f9c6ef4a89c7cc51ea6976180bdccbf` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
